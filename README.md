@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working with Front-end development 
 - 🌱 I’m currently learning Javascript, React
-- 📫 How to reach me: nessagm124@gmail.com
 - 😄 Pronouns: she/her
 <div align="center">
   <a href="https://github.com/vnessagm">
