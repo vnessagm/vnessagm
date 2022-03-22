@@ -1,8 +1,8 @@
 ### Hi there!! I am Vanessa Gonçalves
 
 
-- 🔭 I’m currently working with Front-end development 
-- 🌱 I’m currently learning Javascript, React
+- 🔭 ##I’m currently working with Front-end development 
+- 🌱 ##I’m currently learning Javascript, React
 - 😄 Pronouns: she/her
 <div align="center">
   <a href="https://github.com/vnessagm">
