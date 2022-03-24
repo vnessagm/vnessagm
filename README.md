@@ -1,7 +1,7 @@
-### Hi there!! I am Vanessa Gonçalves
+align="center" ### Hi there!! I am Vanessa Gonçalves
 
 
-- 🔭 I’m currently working with Front-end development 
+<p align="center"> 🔭 I’m currently working with Front-end development </p>
 - 🌱 I’m currently learning Javascript, React
 - 😄 Pronouns: she/her
 <div align="center">
