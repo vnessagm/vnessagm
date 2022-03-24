@@ -1,4 +1,4 @@
- ### Hi there!! I am Vanessa Gonçalves
+<p align="center"> ### Hi there!! I am Vanessa Gonçalves </p>
 
 
 <p align="center"> 🔭 I’m currently working with Front-end development </p>
