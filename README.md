@@ -1,9 +1,9 @@
-<p align="center"> ### Hi there!! I am Vanessa Gonçalves </p>
+ ### Hi there!! I am Vanessa Gonçalves 
 
 
-<p align="center"> 🔭 I’m currently working with Front-end development </p>
-<p align="center">- 🌱 I’m currently learning Javascript, React </p>
-<p align="center">- 😄 Pronouns: she/her </p>
+ -🔭 I’m currently working with Front-end development 
+- 🌱 I’m currently learning Javascript, React
+- 
 <div align="center">
   <a href="https://github.com/vnessagm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnessagm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
