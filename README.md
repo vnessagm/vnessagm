@@ -1,9 +1,8 @@
  ### Hi there!! I am Vanessa Gonçalves 
 
-
- -🔭 I’m currently working with Front-end development 
+-  🔭 I’m currently working with Front-end development 
 - 🌱 I’m currently learning Javascript, React
-- 
+
 <div align="center">
   <a href="https://github.com/vnessagm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnessagm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
