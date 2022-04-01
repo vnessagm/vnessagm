@@ -1,6 +1,6 @@
  ### Hi there!! I am Vanessa Gonçalves 
 
--  🔭 I’m currently working with Front-end development 
+-  🔭 I’m currently focus on  Front-end development 
 - 🌱 I’m currently learning Javascript, React
 
 <div align="center">
