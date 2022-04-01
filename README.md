@@ -1,7 +1,7 @@
  ### Hi there!! I am Vanessa Gonçalves 
 
--  🔭 I’m currently focus on  Front-end development 
-- 🌱 I’m currently learning Javascript, React
+-  I’m currently focus on  Front-end development 
+-  I’m currently learning Javascript, React
 
 <div align="center">
   <a href="https://github.com/vnessagm">
